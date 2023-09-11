@@ -1,0 +1,193 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  background: #fff;
+  width: 1439px;
+  height: 2454px;
+}
+.hero-section {
+  height: 800px;
+  display: flex;
+  flex-direction: row;
+}
+.black {
+  background-color: black;
+  width: 450px;
+  height: 800px;
+}
+
+.m-a-g {
+  color: #151515;
+  text-align: left;
+  font: 900 96px "Big Shoulders Display", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 185px;
+  top: 190px;
+}
+
+.black2 {
+  width: 450px;
+  height: 800px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.m-a-g2 {
+  color: var(--white, #ffffff);
+  text-align: left;
+  font: 900 96px "Big Shoulders Display", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 185px;
+  top: 190px;
+  width: 514px;
+}
+.pic {
+  background-image: url(/img/image-hero.jpg);
+  width: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.textnbtn {
+  position: relative;
+  color: #444444;
+  text-align: left;
+  font: 300 22px "Outfit", sans-serif;
+  margin-left: -50px;
+  top: 210px;
+  width: 250px;
+  line-height: 32px;
+}
+.ol {
+  width: 240px;
+  height: 72px;
+  background-color: #151515;
+  margin-top: 8rem;
+  color: white;
+  font: 800 20px "Big Shoulders Display", sans-serif;
+  letter-spacing: 3.64px;
+  text-align: center;
+  padding-top: 1.3rem;
+}
+.icon-box {
+  width: 56px;
+  height: 50px;
+  background-color: #d5966c;
+  position: relative;
+  top: -47px;
+  left: 230px;
+}
+
+.gal-section {
+  width: 1110px;
+  position: relative;
+  margin-top: 150px;
+  left: 185px;
+  margin-bottom: 150px;
+}
+
+.textnpic {
+  display: flex;
+  justify-content: space-between;
+}
+
+.textonly {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.textonly h2 {
+  font: 800 60px "Big Shoulders Display", sans-serif;
+}
+.textonly p {
+  color: #444444;
+  text-align: left;
+  font: 300 22px "Outfit", sans-serif;
+  line-height: 32px;
+  padding-top: 12px;
+}
+.img1 {
+  background-image: url(/img/image-grid-1.jpg);
+  width: 635px;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gal {
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-between;
+}
+.img2 {
+  background-image: url(/img/image-grid-2.jpg);
+  width: 635px;
+  height: 680px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.img3 {
+  background-image: url(/img/image-grid-3.jpg);
+  width: 445px;
+  height: 313px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.col2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.textonly2 {
+  margin-top: 40px;
+  width: 405px;
+  height: 287px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #151515;
+  color: #fff;
+  padding: 20px;
+}
+.textonly2 h2 {
+  font: 800 60px "Big Shoulders Display", sans-serif;
+}
+.textonly2 p {
+  text-align: left;
+  font: 300 22px "Outfit", sans-serif;
+  line-height: 32px;
+  padding-top: 12px;
+}
+
+.footer {
+  width: 1440px;
+  height: 244px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #151515;
+  color: white;
+}
+.footer-section {
+  width: 1110px;
+  display: inline-flex;
+  justify-content: space-between;
+}
+.ffooter-section h3 {
+  width: 160px;
+  font: 800 40px "Big Shoulders Display", sans-serif;
+}
+.footer-section p {
+  width: 430px;
+  font: 200 18px "Outfit", sans-serif;
+  line-height: 28px;
+}
