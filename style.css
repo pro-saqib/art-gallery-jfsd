@@ -19,14 +19,17 @@
 }
 
 .m-a-g {
-  color: #151515;
-  text-align: left;
-  font: 900 96px "Big Shoulders Display", sans-serif;
-  text-transform: uppercase;
-  position: absolute;
-  left: 185px;
-  top: 190px;
+    color: #151515;
+    text-align: left;
+    font: 900 96px "Big Shoulders Display", sans-serif;
+    position: absolute;
+    left: 185px;
+    top: 190px;
+    background: linear-gradient(to right, #fff 63.5%, #000 10%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
+
 
 .black2 {
   width: 450px;
