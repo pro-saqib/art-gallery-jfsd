@@ -46,7 +46,7 @@
   width: 514px;
 }
 .pic {
-  background-image: url(/img/image-hero.jpg);
+  background-image: url(img/image-hero.jpg);
   width: 500px;
   background-position: center;
   background-repeat: no-repeat;
@@ -112,7 +112,7 @@
   padding-top: 12px;
 }
 .img1 {
-  background-image: url(/img/image-grid-1.jpg);
+  background-image: url(img/image-grid-1.jpg);
   width: 635px;
   height: 400px;
   background-position: center;
@@ -125,7 +125,7 @@
   justify-content: space-between;
 }
 .img2 {
-  background-image: url(/img/image-grid-2.jpg);
+  background-image: url(img/image-grid-2.jpg);
   width: 635px;
   height: 680px;
   background-position: center;
@@ -133,7 +133,7 @@
   background-size: cover;
 }
 .img3 {
-  background-image: url(/img/image-grid-3.jpg);
+  background-image: url(img/image-grid-3.jpg);
   width: 445px;
   height: 313px;
   background-position: center;
